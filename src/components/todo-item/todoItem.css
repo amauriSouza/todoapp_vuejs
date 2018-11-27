@@ -1,0 +1,12 @@
+.row-line {
+  margin-top: 20px;
+}
+
+.button-remove {
+  margin-left: 5px;
+  border-radius: 10px;
+  background: #d12e2e;
+  border: 1px solid #d12e2e;
+  color: #fff;
+}
+
